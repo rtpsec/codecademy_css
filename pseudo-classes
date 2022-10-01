@@ -1,0 +1,6 @@
+// examples of pseudo-class selectors
+
+:focus
+:visited
+:disabled
+:active
