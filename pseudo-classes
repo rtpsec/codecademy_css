@@ -4,3 +4,9 @@
 :visited
 :disabled
 :active
+
+
+example: 
+a:hover {
+  color: darkorange;
+}
