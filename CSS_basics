@@ -22,8 +22,7 @@ h1 {
 #article-title {
   font-family: cursive;
 }
-
-// Target links containing florence
+// find any link with a image containing the word florence.  
 a[href*='florence'] {
   color: lightgreen;
 }
@@ -34,4 +33,15 @@ a[href*='beijing'] {
 
 a[href*='seoul'] {
   color: lightpink;
+}
+
+a:hover {
+  color:darkorange;
+}
+.heading-background {
+  background-color: aqua;
+}
+
+#publish-time {
+  color: gray;
 }
