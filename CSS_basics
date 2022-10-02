@@ -6,6 +6,11 @@
   padding: 0;
 }
 
+//Visibility takes hidden, visible, collapse
+.future {
+  visibility: hidden;
+}
+
 p {
   color: green;
 }
