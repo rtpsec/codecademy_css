@@ -1,6 +1,9 @@
 // wildcard
 * {
   border: 1px solid red;
+  // This is called resetting the style sheet in the browser's default settings for user-agent. 
+  margin: 0;
+  padding: 0;
 }
 
 p {
