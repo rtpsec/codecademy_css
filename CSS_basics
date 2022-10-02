@@ -11,6 +11,10 @@
   visibility: hidden;
 }
 
+// Note: What’s the difference between display: none and visibility: hidden? 
+// An element with display: none will be completely removed from the web page. 
+// An element with visibility: hidden, however, will not be visible on the web page, but the space reserved for it will.
+
 p {
   color: green;
 }
