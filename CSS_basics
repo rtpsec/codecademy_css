@@ -8,6 +8,8 @@
   padding: 0;
 }
 
+display: inline-block, block, float
+
 //Visibility takes hidden, visible, collapse
 .future {
   visibility: hidden;
