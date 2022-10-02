@@ -1,5 +1,7 @@
 // wildcard
 * {
+  // new box border style.  resets dimensions in browser. 
+  box-sizing: border-box;
   border: 1px solid red;
   // This is called resetting the style sheet in the browser's default settings for user-agent. 
   margin: 0;
